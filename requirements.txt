@@ -5,3 +5,7 @@ tgcrypto
 motor
 aiofiles
 dnspython
+apscheduler
+requests
+psutil
+pyromod
